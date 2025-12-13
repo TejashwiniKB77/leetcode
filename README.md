@@ -1,0 +1,8 @@
+STEP-BY-STEP LOGIC (SIMPLE)
+
+1️⃣ Initialize a variable max to store the maximum word count
+2️⃣ Loop through each sentence in the sentences array
+3️⃣ Use split(" ") to convert the sentence into words
+4️⃣ Find the number of words using .length
+5️⃣ Update max using Math.max()
+6️⃣ Return max
