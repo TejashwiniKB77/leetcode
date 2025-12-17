@@ -6,3 +6,8 @@ STEP-BY-STEP LOGIC (SIMPLE)
 4️⃣ Find the number of words using .length
 5️⃣ Update max using Math.max()
 6️⃣ Return max
+
+
+the 2nd filw cotains sum of numbers 
+ we can sum calculations
+ 
