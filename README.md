@@ -10,4 +10,6 @@ STEP-BY-STEP LOGIC (SIMPLE)
 
 the 2nd filw cotains sum of numbers 
  we can sum calculations
- 
+
+
+ 3rd problem is a leetcode 3 rd medum problem
