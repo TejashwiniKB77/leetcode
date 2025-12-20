@@ -18,4 +18,6 @@ the 2nd filw cotains sum of numbers
 
  66th question in leetcode
  35th easy question in leetcode
+
+ 344 this is a leetcode problem in easy way
  
