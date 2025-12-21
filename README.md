@@ -21,3 +21,4 @@ the 2nd filw cotains sum of numbers
 
  344 this is a leetcode problem in easy way
  771 problem in leetcode
+ 2114 problem in leetcode easy problem
